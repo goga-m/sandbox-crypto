@@ -1,0 +1,15 @@
+{
+  "name": "webcrypto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cryptojs:decrypt": "node cryptojs/decrypt.js",
+    "cryptojs:encrypt": "node cryptojs/encrypt.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}
